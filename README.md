@@ -36,11 +36,11 @@ https://stackblitz.com/edit/vue2-hodo-fe-interview?file=README.md
   - Image
   - Title
   - Body
-- Danh sách có phân trang, được chia **10 posts/page**. Danh sách này được đặt bên dưới Latest posts
+- Danh sách có phân trang với limit **10 posts/page**. Danh sách này được đặt bên dưới Latest posts
 
 #### 4. Kết quả đạt được cho phần yêu cầu thêm (Optional)
 
-- Trang Blog post có:
+- Trang Blog posts có:
   - Latest posts (5 posts có ID mới nhất (lớn nhất)
   - List 95 posts còn lại, có phân trang với limit: **10 posts/page**
 - Trang Detail post: hiển thị nội dung của 1 bài post khi được click từ trang Blog post bên trên
