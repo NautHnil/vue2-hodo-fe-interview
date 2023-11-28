@@ -4,17 +4,19 @@
 
 https://jsonplaceholder.typicode.com/posts
 
-### II. Playground
+### II. Playground - Code online
 
 https://stackblitz.com/edit/vue2-hodo-fe-interview?file=README.md
+
+**NOTE:** Yêu cầu **FORK** trước khi start code.
 
 ### III. Yêu cầu
 
 #### 1. Các packages cần dùng: axios, vuex@3.6.2, vue-router@3.6.5
 
-- Call API: Axios
-- Store: Vuex
-- Router: Vue-router
+- API: Axios
+- Store: Vuex - vuex@3.6.2 - Docs: https://v3.vuex.vuejs.org/
+- Router: Vue-router - vue-router@3.6.5 - Docs: https://v3.router.vuejs.org/
 
 #### 2. Yêu cầu chính (Thời gian 40 ~ 50 phút)
 
